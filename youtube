@@ -1,0 +1,43 @@
+Redux Toolkit Tutorial – JavaScript State Management Library
+https://www.youtube.com/watch?v=bbkBuqC1rU4&ab_channel=freeCodeCamp.org
+
+Description:
+Learn how to use Redux Toolkit in this course for beginners. Redux Toolkit is from the Redux team and tt is intended to be the standard way to write Redux logic. So if you want to learn Redux to help with state management, this is the video for you.
+
+💻 Code: https://github.com/john-smilga/redux-...
+
+✏️ Course developed by John Smilga. Check out his YouTube channel:   
+
+ / @codingaddict  
+
+⭐️ Course Conetents ⭐️
+⌨️ (0:00:00) Setup Store
+⌨️ (0:11:09) Create Slice
+⌨️ (0:18:49) Dev Tools
+⌨️ (0:20:28) useSelector()
+⌨️ (0:29:04) Hero Icons
+⌨️ (0:32:08) Local Data
+⌨️ (0:34:24) Render List
+⌨️ (0:43:33) Cart Item
+⌨️ (0:46:59) Clear Cart
+⌨️ (0:54:37) Return State
+⌨️ (0:57:23) Remove Item
+⌨️ (1:04:01) Toggle Amount
+⌨️ (1:10:19) Calculate Totals
+⌨️ (1:16:27) Create Modal
+⌨️ (1:18:56) Modal Complete
+⌨️ (1:28:26) createAsyncThunk
+⌨️ (1:41:30) createAsyncThunk Options
+
+🎉 Thanks to our Champion and Sponsor supporters:
+👾 Raymond Odero
+👾 Agustín Kussrow
+👾 aldo ferretti
+👾 Otis Morgan
+👾 DeezMaster
+
+--
+
+Learn to code for free and get a developer job: https://www.freecodecamp.org
+
+Read hundreds of articles on programming: https://freecodecamp.org/news
