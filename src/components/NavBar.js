@@ -1,4 +1,4 @@
-import CartIcon from '../assets/icons';
+import {CartIcon} from '../assets/icons';
 import {useSelector} from 'react-redux';
 
 const NavBar = () => {
