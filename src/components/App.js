@@ -1,4 +1,5 @@
 import NavBar from './NavBar';
+import CartContainer from './CartContainer';
 import '../styles/App.css';
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
     <div className="App">
       <main className="App-header">
         <NavBar />
+        <CartContainer />
       </main>
     </div>
   );
