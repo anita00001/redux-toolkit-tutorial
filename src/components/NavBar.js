@@ -8,7 +8,7 @@ const NavBar = () => {
   //   })
   // );
 
-  const { amount } = useSelector((store)=>store.cart.amount);
+  const { amount } = useSelector((store)=>store.cart);
 
   return (
     <nav>
